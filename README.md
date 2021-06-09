@@ -7,7 +7,7 @@
 
 当前版本：![GitHub tag](https://img.shields.io/badge/tag-v0.0.5-orange)
 
-## 更新预告
+## 更新预告t
 
 由于GitHub官方不鼓励使用Action服务进行签到，本项目将在下一个版本中取消对Action服务的支持并增加Gitlab CICD的支持。同时，请相关Fork仓库注意，继续使用Action服务进行签到可能造成账户限制。
 
